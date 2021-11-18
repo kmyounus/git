@@ -1,0 +1,78 @@
+
+#hero_area{
+    padding: 20px;
+}
+.container{
+    max-width: 980px;
+    width: 98%;
+}
+
+.inner_hero{
+    overflow: hidden;
+}
+.child_heo{
+    width: 25%;
+    float: left;
+    margin 0 1% 10px;
+}
+.child_heo .work_area{
+  background: greenyellow;
+}
+.child_heo .service_area{
+    background: grey;
+    color: white;
+    padding: 5px;
+    margin-left: 2px;
+}
+.child_heo .testimonial_area{
+    background: #ba2e1f;
+    color: white;
+    padding: 5px;
+    margin-left: 2px;
+}
+.child_heo .self{
+    background: #000000;
+    color: white;
+    padding: 5px;
+    margin-left: 2px;
+}
+/*===============
+banner area
+==================*/
+#banner_area{
+    padding: 35px;
+}
+.inner_banner{
+    overflow: hidden;
+}
+.child_banner{
+    width: 100%;
+    float: left;
+    clear: both;
+}
+.text{
+    width: 75%;
+    float: left;
+}
+.text h1{
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    background: lightcyan;
+}
+ 
+.imgs{
+    width: 24%;
+    float: right;
+    margin-top: -137px;
+}
+.imgsn img{
+    width: 150px;
+    height: 130px;
+}
+
+
+
+
+
+
+
